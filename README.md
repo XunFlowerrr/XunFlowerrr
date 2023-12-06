@@ -8,8 +8,8 @@
 
 ## Skills
 
-- 📱 Android Development <a href="https://kotlinlang.org">`Kotlin`</a> <a href="https://dev.java">`Java`</a>
-- 🎨 UX/UI Design <a href="https://www.figma.com">`Figma`</a> <a href="https://www.adobe.com/products/illustrator.html">`Adobe Illustrator`</a>
+- 📱 Android Development `Kotlin` `Java`
+- 🎨 UX/UI Design `Figma` `Adobe Illustrator`
 
 ## Projects and Contributions
 
