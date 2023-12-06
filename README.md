@@ -42,7 +42,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <a href="https://dev.java" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
