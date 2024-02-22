@@ -19,6 +19,12 @@
 - Implemented real-time weather updates using API integration.
   [GitHub Repository](https://github.com/XunFlowerrr/Weather-Forecast)
 
+##### 📱 Coin Ranking App (Android)
+
+- Developed an Android application for tracking cryptocurrency prices using `Kotlin` and `Android Studio`.
+- Integrated real-time data updates using API integration.
+  [GitHub Repository](https://github.com/XunFlowerrr/CoinRankingApp)
+
 ##### 🌐 Yakiniku Web Application (UX/UI Design)
 
 - Lead designer of a web application for Yakinku using `Figma` and `Adobe Illustrator`.
