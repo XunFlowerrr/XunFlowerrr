@@ -25,6 +25,12 @@
 - Integrated real-time data updates using API integration.
   [GitHub Repository](https://github.com/XunFlowerrr/CoinRankingApp)
 
+##### 🌐 2110503TACEDT66/presentation-day-1-yenkor (Backend)
+
+- Developed a backend server for a web application using `Node.js` and `Express.js`.
+- Implemented a RESTful API for user authentication and data retrieval.
+  [GitHub Repository](https://github.com/2110503TACEDT66/presentation-day-1-yenkor)
+
 ##### 🌐 Yakiniku Web Application (UX/UI Design)
 
 - Lead designer of a web application for Yakinku using `Figma` and `Adobe Illustrator`.
@@ -48,6 +54,15 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://dev.java" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;
@@ -63,4 +78,5 @@
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;
+
 </p>
