@@ -16,40 +16,52 @@
 
 ## Projects and Contributions
 
-##### **📱 Coin Ranking App `Android`**
+#### **📱 Coin Ranking App `Android`**
 
 - Developed an Android application for tracking cryptocurrency prices using `Kotlin` and `Android Studio`.
 - Integrated real-time data updates using API integration.
 
   Explore the **[GitHub Repository ](https://github.com/XunFlowerrr/CoinRankingApp)**
 
-##### **📱 Weather Forecast App `Android`**
+  ---
+  
+
+#### **📱 Weather Forecast App `Android`**
 
 - Developed an intuitive Android weather forecasting application leveraging `Kotlin` and `Android Studio`.
 - Implemented real-time weather updates using API integration.
 
   Explore the **[GitHub Repository](https://github.com/XunFlowerrr/Weather-Forecast)**
 
-##### **🌐 2110503TACEDT66/presentation-day-1-yenkor ` Backend server`**
+  ---
+
+#### **🌐 2110503TACEDT66/presentation-day-1-yenkor ` Backend server`**
 
 - Developed a backend server for a web application using `Node.js` and `Express.js`.
 - Implemented a RESTful API for user authentication and data retrieval.
 
   Explore the **[GitHub Repository](https://github.com/2110503TACEDT66/presentation-day-1-yenkor)**
 
-##### **🌐 Yakiniku Web Application `UX/UI Design`**
+  ---
+
+#### **🌐 Yakiniku Web Application `UX/UI Design`**
 
 - Lead designer of a web application for Yakinku using `Figma` and `Adobe Illustrator`.
 - Designed and implemented responsive UI elements for a seamless user interaction.
 
   Explore the **[GitHub Repository](https://github.com/Taihenc/YAKINIKU)**
 
-##### **🌐 Imaginify `Full Stack Web Application` <span style="color:#FF4040">Still Under the Development</span>**
+  ---
+  
+
+#### **🌐 Imaginify `Full Stack Web Application` <span style="color:#FF4040">Still Under the Development</span>**
 
 - Developed a web application for AI image transformation using `Next.js` and `Typescript`.
 - Styled and implemented responsive UI elements using `shadcn-ui`
 
   Explore the **[GitHub Repository](https://github.com/XunFlowerrr/Imaginify)**
+
+  ---
 
 ## Contact Me
 
