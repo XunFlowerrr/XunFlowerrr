@@ -23,8 +23,7 @@
 
   Explore the **[GitHub Repository ](https://github.com/XunFlowerrr/CoinRankingApp)**
 
-  ---
-  
+  ***
 
 #### **📱 Weather Forecast App `Android`**
 
@@ -33,7 +32,7 @@
 
   Explore the **[GitHub Repository](https://github.com/XunFlowerrr/Weather-Forecast)**
 
-  ---
+  ***
 
 #### **🌐 2110503TACEDT66/presentation-day-1-yenkor ` Backend server`**
 
@@ -42,7 +41,7 @@
 
   Explore the **[GitHub Repository](https://github.com/2110503TACEDT66/presentation-day-1-yenkor)**
 
-  ---
+  ***
 
 #### **🌐 Yakiniku Web Application `UX/UI Design`**
 
@@ -51,17 +50,18 @@
 
   Explore the **[GitHub Repository](https://github.com/Taihenc/YAKINIKU)**
 
-  ---
-  
+  ***
 
-#### **🌐 Imaginify `Full Stack Web Application` <span style="color:#FF4040">Still Under the Development</span>**
+#### **🌐 Imaginify `Full Stack Web Application`**
 
 - Developed a web application for AI image transformation using `Next.js` and `Typescript`.
-- Styled and implemented responsive UI elements using `shadcn-ui`
+- Styled and implemented responsive UI elements using component library `shadcn-ui` and `Tailwind CSS`.
+- Integrated `Clerk` as the Authentication Provider. and `MongoDB` as the database.
+- Implemented image transformation using `Cloudinary` API.
 
   Explore the **[GitHub Repository](https://github.com/XunFlowerrr/Imaginify)**
 
-  ---
+  ***
 
 ## Contact Me
 
