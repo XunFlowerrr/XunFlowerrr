@@ -10,7 +10,7 @@
 
 - 📱 Android Development `Kotlin` `Java`
 - 🌐 Backend `Node.js` `Express.js`
-- 🌐 Frontend `Next.js` `JavaScript` `TypeScript`
+- 🌐 Frontend `Next.js` `JavaScript` `TypeScript` `HTML` `CSS`
 - 🔗 Database `MongoDB` `PostgreSQL`
 - 🎨 UX/UI Design `Figma` `Adobe Illustrator`
 
